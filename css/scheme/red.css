@@ -37,6 +37,9 @@ a {
 footer.footer {
   background: #ECE6E6;
 }
+footer.icon {
+  background: #B32E2E;
+}
 .post .post-meta .post-icon:hover {
   background: #B32E2E;
 }

@@ -991,6 +991,17 @@ p {
  footer.footer {
     background: #B32E2E;
 }
+footer-icon {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    line-height: 43px;
+    text-align: center;
+    background: #B32E2E;
+    color: #FFF;
+    font-size: 20px;
+    display: inline;
+}
 .footer-nav {
     margin: 0;
     padding: 0;
